@@ -11,6 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 public class SampleJava1 extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
+	// 変更
 	public SampleJava1() {
 		super();
 	}
